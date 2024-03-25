@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['16362439088', 'kinfux digital', true],
-  ['254110377776', 'kinflux digital', true], 
+  ['16362439088', 'cyber Spartan Admiral', true],
+  ['254110377776', 'cyber Spartan Admiral', true], 
   ['556199740980'] 
 ] //Number of owners
 
@@ -48,19 +48,19 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'kinflux bot god'
+global.botname = 'Cyber IT Spartan Admiral'
 global.premium = 'true'
-global.packname = 'kinflux ┃ᴮᴼᵀ' 
-global.author = 'kinflux digital' 
+global.packname = 'cyber daren┃ᴮᴼᵀ' 
+global.author = 'cyber daren IT specialist' 
 global.igfg = '▢ Follow on Instagram\nhttps://chat.whatsapp.com/BLjStbNJvG2H7Z3hlDmv28\n' 
-global.dygp = 'https://chat.whatsapp.com/BLjStbNJvG2H7Z3hlDmv28'
+global.dygp = 'https://chat.whatsapp.com/CKk6mZC8GC55sdn9lcdb9X'
 global.fgsc = 'https://github.com/diggilly/kinflux-bot' 
-global.fgyt = 'https://chat.whatsapp.com/BLjStbNJvG2H7Z3hlDmv28'
+global.fgyt = 'https://chat.whatsapp.com/CKk6mZC8GC55sdn9lcdb9X'
 global.fgpyp = ''
 global.fglog = 'https://raw.githubusercontent.com/diggilly/kinflux-bot/main/Guru.jpg' 
 
 
-global.wait = '*⌛ _kinflux bot loading..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _cyber IT machine loading..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
